@@ -1,0 +1,24 @@
+{
+  "name": "nodelambda",
+  "version": "1.0.0",
+  "description": "Testing AWS Lambda with NodeJS 20.x runtine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelmartz/nodejs20x-aws-lambda.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "nodejs"
+  ],
+  "author": "Angel Martz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelmartz/nodejs20x-aws-lambda/issues"
+  },
+  "homepage": "https://github.com/angelmartz/nodejs20x-aws-lambda#readme"
+}
